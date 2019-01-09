@@ -1,0 +1,7 @@
+@import '../pages/photos.module';
+
+.item {
+    @extend .item;
+
+    padding: 0.5em;
+}
