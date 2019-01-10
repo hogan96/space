@@ -250,6 +250,6 @@ module.exports = {
     siteMetadata: {
         dateOfEvent: '31 Dec 2018 00:00',
         languages,
-        siteUrl: 'https://caddysmellsliketrees.ru',
+        siteUrl: 'https://hogan96.github.io',
     },
 };
